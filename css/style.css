@@ -28,5 +28,22 @@
     background-color: #f2f3f5;
 }
 
+.aboutSection {
+    background-color: #f2f3f5;
+    color: #0b0b31;
+}
+
+.aboutSection button {
+    background-color: #213349;
+    color: white;
+    
+
+}
+
+.bottomBlock {
+    background-color: #19293a;
+    color: white;
+}
+
 
 
