@@ -19,13 +19,24 @@
     background-color: #f2f3f5;
 }
 
+.logo {
+    padding-bottom: 20px;
+}
+
+.navButtons {
+    padding-bottom: 20px;
+
+}
 .logoNav .navButtons button{
     background-color: #0b0b31;
     color: #a9a9a9;
+    font-size: small;
 }
 
 .heroImg {
     background-color: #f2f3f5;
+    padding-bottom: 20px;
+
 }
 
 .aboutSection {
@@ -36,14 +47,108 @@
 .aboutSection button {
     background-color: #213349;
     color: white;
-    
+
+}
+
+
+.smartButton {
+    padding-bottom: 20px;
+
+}
+
+.strongButton {
+    padding-bottom: 20px;
+
+}
+
+.stableButton {
+    padding-bottom: 20px;
 
 }
 
 .bottomBlock {
-    background-color: #19293a;
+    background: rgb(15,24,33);
+background: linear-gradient(0deg, rgba(15,24,33,1) 0%, rgba(28,45,63,1) 100%);
     color: white;
+}
+
+.servicesButton {
+    padding-bottom: 25px;
+
+}
+
+.servicesHeader {
+    padding-top: 20px;
+
+}
+
+.servicesList ul {
+    list-style: inside;
+}
+
+
+.opportunitiesButton {
+    padding-bottom: 25px;
+
+}
+
+body h2 {
+    font-size: xx-large;
+}
+
+.news span {
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.newsButton {
+    padding-bottom: 20px;
+}
+
+.bottomBlock button {
+    background-color: #213349;
+    color: white;
+}
+
+.newsBlock1Button {
+    padding-bottom: 20px;
+}
+
+.newsBlock2Button {
+    padding-bottom: 20px;
+
+}
+
+.newsBlock3Button {
+    padding-bottom: 20px;
+
+}
+
+.newsBlock1Button button {
+    background-color: #be8542;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.newsBlock2Button button {
+    background-color: #bc6142;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.newsBlock3Button button {
+    background-color: #bd425d;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
 }
 
 
 
+.bottomBar {
+    background-color: #0e1e31;
+    color: white;
+    
+}
