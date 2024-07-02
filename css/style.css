@@ -1,3 +1,11 @@
+body button {
+    border-radius: 6px;
+}
+
+body img {
+    border-radius: 10px;
+}
+
 .siteNav {
     background-color: #0b0b31;
     color: #a9a9a9;
@@ -29,7 +37,7 @@
 }
 .logoNav .navButtons button{
     background-color: #0b0b31;
-    color: #a9a9a9;
+    color: white;
     font-size: small;
 }
 
@@ -50,7 +58,23 @@
 
 }
 
+.smart {
+    border: #a9a9a9 solid 2px;
+}
 
+.strong {
+    border: #a9a9a9 solid 2px;
+
+}
+
+.stable {
+    border: #a9a9a9 solid 2px;
+
+}
+
+
+
+  
 .smartButton {
     padding-bottom: 20px;
 
