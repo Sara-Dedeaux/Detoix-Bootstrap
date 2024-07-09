@@ -47,6 +47,91 @@ body img {
 
 }
 
+.c-buttons div{
+    background-color: #a9a9a9;
+    display: inline-block;
+    width: 25%;
+    border-radius: 100%;
+    height: auto;
+    color: #a9a9a9;
+    text-align: center;
+    margin-right: 5px;
+    margin-top: 5px;
+}
+
+@media (min-width: 768px) {
+
+    .logo img{
+        width: 300px;
+        height: auto;
+    }
+
+    .navButtons {
+        padding-top: 22px;
+    }
+
+    .smart {
+        border: #a9a9a9 solid 2px;
+    }
+    
+    .strong {
+        border: #a9a9a9 solid 2px;
+    
+    }
+    
+    .stable {
+        border: #a9a9a9 solid 2px;
+    
+    }
+
+    .bbHeader {
+        padding-top: 55px;
+        padding-bottom: 30px;
+    }
+
+    .servicesList {
+        text-align: start;
+        padding-left: 45px;
+    }
+
+    .servicesList li {
+        padding-bottom: 10px;
+        font-size: 20px;
+    }
+
+    .opportunitiesParagraph1 {
+        padding-bottom: 45px;
+    }
+
+    .oppP {
+        font-size: 20px;
+        text-align: start;
+        
+    }
+
+    .opportunitiesButton {
+        padding-top: 65px;
+    }
+
+    .servicesButton {
+        padding-top: 30px;
+    }
+
+    .c-buttons div{
+        background-color: #a9a9a9;
+        display: inline-block;
+        width: 8%;
+        border-radius: 100%;
+        height: auto;
+        color: #a9a9a9;
+        text-align: center;
+        margin-right: 5px;
+        margin-top: 5px;
+    }
+
+}
+
+
 .aboutSection {
     background-color: #f2f3f5;
     color: #0b0b31;
@@ -58,23 +143,7 @@ body img {
 
 }
 
-.smart {
-    border: #a9a9a9 solid 2px;
-}
-
-.strong {
-    border: #a9a9a9 solid 2px;
-
-}
-
-.stable {
-    border: #a9a9a9 solid 2px;
-
-}
-
-
-
-  
+ 
 .smartButton {
     padding-bottom: 20px;
 
@@ -108,6 +177,11 @@ background: linear-gradient(0deg, rgba(15,24,33,1) 0%, rgba(28,45,63,1) 100%);
 
 .servicesList ul {
     list-style: inside;
+
+}
+
+.servicesList li {
+    list-style-type: none;
 }
 
 
