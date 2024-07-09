@@ -59,6 +59,10 @@ body img {
     margin-top: 5px;
 }
 
+.servicesList {
+    padding-left: 119px;
+}
+
 @media (min-width: 768px) {
 
     .logo img{
@@ -114,7 +118,11 @@ body img {
     }
 
     .servicesButton {
-        padding-top: 30px;
+        padding-top: 97px;
+    }
+
+    .newsButton {
+        padding-top: 194px;
     }
 
     .c-buttons div{
@@ -129,6 +137,58 @@ body img {
         margin-top: 5px;
     }
 
+    .navButtons button {
+        font-size: large;
+    }
+
+
+}
+
+@media (min-width: 992px) {
+
+    .opportunitiesButton {
+        padding-top: 124px;
+    }
+
+    .servicesButton {
+        padding-top: 97px;
+    }
+
+    .newsButton {
+        padding-top: 145px;
+    }
+
+   
+}
+
+@media (min-width: 1200px) {
+
+    .opportunitiesButton {
+        padding-top: 132px;
+    }
+
+    .servicesButton {
+        padding-top: 97px;
+    }
+
+    .newsButton {
+        padding-top: 92px;
+    }
+}
+
+@media (min-width: 1400px){
+
+    .opportunitiesButton {
+        padding-top: 72px;
+    }
+
+    .servicesButton {
+        padding-top: 127px;
+    }
+
+    .newsButton {
+        padding-top: 32px;
+    }
 }
 
 
